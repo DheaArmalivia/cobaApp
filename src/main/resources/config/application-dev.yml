@@ -36,7 +36,7 @@ spring:
         # So you should use url: jdbc:sqlserver://localhost:1433;database=tempdb
         url: jdbc:sqlserver://localhost:1433;database=cobaApp
         username: SA
-        password: yourStrong(!)Password
+        password: dhea123
         hikari:
             auto-commit: false
             data-source-properties:
